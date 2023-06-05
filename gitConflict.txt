@@ -2,4 +2,4 @@ Here is some text
 
 Here is some text2
 
-This is the text in master
+This is the text in branch
