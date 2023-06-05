@@ -3,3 +3,4 @@ Here is some text
 Here is some text2
 
 This is the text in master this is a proper change for conflict
+
